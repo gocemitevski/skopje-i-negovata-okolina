@@ -416,7 +416,253 @@ Copyright by »Turistkomerc«
 
 Од градбите во градот, досега е откопан големиот театар. Тој има типична римска форма, со пречник преку 90 м. Театарот е подигнат во вториот век, веројатно во времето на Хадријан.  Оваа јавна градба била наполно напуштена при крајот на IV век. Во почетокот на XI век, од овој објект се земаат камени блокови кои се вѕидани во ѕидовите на Горен град. Денес од театарот може да се видат само голи темели.
 
-Откриена е и сакралната градба Базилика II. Тоа е голема доцноримска базилика од крајот на IV век, долга 31 м а широка 17 м. Подот не е зачуван, а делумно се пронајдени фрагменти од камени столбови, парапетни плочи и остатоци од фреско живописот.  БАЗИПИКА I — Од неа е откопана само северната половина, долга 28 м. Таа претставува голема сала со широка апсида на западниот дел. Подот е покриен со геометриски мозаик.  Инаку, овој објект датира од раниот IV век.
+Откриена е и сакралната градба Базилика II. Тоа е голема доцноримска базилика од крајот на IV век, долга 31 м а широка 17 м. Подот не е зачуван, а делумно се пронајдени фрагменти од камени столбови, парапетни плочи и остатоци од фреско живописот.  БАЗИЛИКА I — Од неа е откопана само северната половина, долга 28 м. Таа претставува голема сала со широка апсида на западниот дел. Подот е покриен со геометриски мозаик.  Инаку, овој објект датира од раниот IV век.
+
+![Камениот мост на реката Вардар](fotografii/Kameniot-most-na-rekata-Vardar.jpg)
+Камениот мост на реката Вардар
+
+![Акведукт](fotografii/Akvedukt.jpg)
+Акведукт
+
+![Тврдината Кале - Горен Град](fotografii/Tvrdinata-Kale-Goren-Grad.jpg)
+Тврдината Кале - Горен Град
+
+![В. Коџоман »Старо Скопје«, масло](fotografii/Vangel-Kodzoman-Staro-Skopje-maslo.jpg)
+В. Коџоман »Старо Скопје«, масло
+
+![Музеј на Македонија - скулптура од античкиот град Скупи](fotografii/Muzej-na-Makedonija-skulptura-od-antickiot-grad-Skupi.jpg)
+Музеј на Македонија - скулптура од античкиот град Скупи
+
+![Стара чаршија](fotografii/Stara-carsija.jpg)
+Стара чаршија
+
+![Мост »Гоце Делчев« и Споменикот на ослободителите на Скопје](fotografii/Most-Goce-Delcev-i-Spomenikot-na-osloboditelite-na-Skopje.jpg)
+Мост »Гоце Делчев« и Споменикот на ослободителите на Скопје
+
+![Културен центар](fotografii/Kulturen-centar.jpg)
+Културен центар
+
+![Македонски народен театар - сцена од операта »Цар Самоил«](fotografii/Makedonski-naroden-teatar-scena-od-operata-Car-Samoil.jpg)
+Македонски народен театар - сцена од операта »Цар Самоил«
+
+![Музеј на град Скопје - стара железничка станица](fotografii/Muzej-na-grad-Skopje-stara-zeleznicka-stanica.jpg)
+Музеј на град Скопје - стара железничка станица
+
+![Гробот на Гоце Делчев во црквата Св. Спас](fotografii/Grobot-na-Goce-Delcev-vo-crkvata-Sv-Spas.jpg)
+Гробот на Гоце Делчев во црквата Св. Спас
+
+![Црква Св. Спас - Иконостас во резба, XIX в.](fotografii/Crkva-Sv-Spac-Ikonostas-vo-rezba-XIX-vek.jpg)
+Црква Св. Спас - Иконостас во резба, XIX в.
+
+![Зградата на Македонската академија на науките и уметностите](fotografii/Zgradata-na-Makedonskata-akademija-na-naukite-i-umentnostite.jpg)
+Зградата на Македонската академија на науките и уметностите
+
+![Трговски центар](fotografii/Trgovski-centar.jpg)
+Трговски центар
+
+![Универзитет »Кирил и Методиј«](fotografii/Univerzitet-Kiril-i-Metodij.jpg)
+Универзитет »Кирил и Методиј«
+
+![»Климент Охридски«, скулптура](fotografii/Kliment-Ohridski-skulptura.jpg)
+»Климент Охридски«, скулптура
+
+![»Бит-пазар«](fotografii/Bit-pazar.jpg)
+»Бит-пазар«
+
+![Стара чаршија - занаети](fotografii/Stara-carsija-zanaeti.jpg)
+Стара чаршија - занаети
+
+![Пафта](fotografii/Pafta.jpg)
+Пафта
+
+![Даут-пашин амам (XV в.) - денес Уметничка галерија](fotografii/Daut-pasin-amam-XV-vek-denes-Umetnicka-galerija.jpg)
+Даут-пашин амам (XV в.) - денес Уметничка галерија
+
+![Мустафа-пашина џамија (XV в.)](fotografii/Mustafa-pasina-dzamija.jpg)
+Мустафа-пашина џамија (XV в.)
+
+![Музеј на современата уметност](fotografii/Muzaj-na-sovremenata-umetnost.jpg)
+Музеј на современата уметност
+
+![Музеј на современата уметност - Пикасо, »Глава на жена«, масло 1964](fotografii/Muzaj-na-sovremenata-umetnost-Pikaso-Glava-na-zena-maslo-1964.jpg)
+Музеј на современата уметност - Пикасо, »Глава на жена«, масло 1964
+
+![Свирач на гајда](fotografii/Svirac-na-gajda.jpg)
+Свирач на гајда
+
+![Комплекс на Музеј на Македонија во Стара чаршија](fotografii/Kompleks-na-Muzej-na-Makedonija-vo-Stara-carsija.jpg)
+Комплекс на Музеј на Македонија во Стара чаршија
+
+![Сули-ан во Стара чаршија](fotografii/Suli-an-vo-Stara-carsija.jpg)
+Сули-ан во Стара чаршија
+
+![Капан-ан во Стара чаршија](fotografii/Kapan-an-vo-Stara-carsija.jpg)
+Капан-ан во Стара чаршија
+
+![Театар на народностите](fotografii/Teatar-na-narodnostite.jpg)
+Театар на народностите
+
+![Манастир Св. Пантелејмон, »Оплакување на Христа« (XII в.) фреска](fotografii/Manastir-Sv-Pantelejmon-Oplakuvanje-na-Hrista-XII-vek-freska.jpg)
+Манастир Св. Пантелејмон, »Оплакување на Христа« (XII в.) фреска
+
+![Манастир Св. Пантелејмон (XII в.), с. Нерези](fotografii/Manastir-Sv-Pantelejmon-XII-vek-s-Nerezi.jpg)
+Манастир Св. Пантелејмон (XII в.), с. Нерези
+
+![Манастир Св. Пантелејмон, »Симнување од крстот« (XII в.) фреска](fotografii/Manastir-Sv-Pantelejmon-Simnuvanje-od-krstot-XII-vek-freska.jpg)
+Манастир Св. Пантелејмон, »Симнување од крстот« (XII в.) фреска
+
+![Манастир Св. Пантелејмон, »Св. Пантелејмон« (XII в.) фреска](fotografii/Manastir-Sv-Pantelejmon-Sv-Pantelejmon-XII-freska.jpg)
+Манастир Св. Пантелејмон, »Св. Пантелејмон« (XII в.) фреска
+
+![Марков манастир (XIV в.) - с. Сушица - Скопско](fotografii/Markov-manastir-XIV-vek-s-Susica-Skopsko.jpg)
+Марков манастир (XIV в.) - с. Сушица - Скопско
+
+![Марков манастир »Богородичен акатист«, детаљ (XIV в.) фреска](fotografii/Markov-manastir-Bogorodicen-akatist-detalj-XIV-vek-freska.jpg)
+Марков манастир »Богородичен акатист«, детаљ (XIV в.) фреска
+
+![Манастир Св. Андреја (XIV в.)](fotografii/Manastir-Sv-Andreja-XIV-vek.jpg)
+Манастир Св. Андреја (XIV в.)
+
+![Манастир Св. Андреја »Богородица« (XIV в.), фреска](fotografii/Manastir-Sv-Andreja-Bogorodica-XIV-vek-freska.jpg)
+Манастир Св. Андреја »Богородица« (XIV в.), фреска
+
+![Манастир Св. Никита »Успение на Богородица« (XIV в.), фреска](fotografii/Manastir-Sv-Nikita-Uspenia-na-Bogorodica-XIV-vek-freska.jpg)
+Манастир Св. Никита »Успение на Богородица« (XIV в.), фреска
+
+![Манастир Св. Никита (XIV в.)](fotografii/Manastir-Sv-Nikita-XIV-vek.jpg)
+Манастир Св. Никита (XIV в.)
+
+![Скопје](fotografii/Skopje.jpg)
+Скопје
+
+![Зграда на ЦК на Сојузот на комунистите на Македонија](fotografii/Zgrada-na-CK-na-Sojuzot-na-komunistite-na-Makedonija.jpg)
+Зграда на ЦК на Сојузот на комунистите на Македонија
+
+![Новиот телекомуникационен центар](fotografii/Noviot-telekomunikacionen-centar.jpg)
+Новиот телекомуникационен центар
+
+![Споменик »Гоце Делчев« во Градскиот парк](fotografii/Spomenik-Goce-Delcev-vo-Gradskiot-park.jpg)
+Споменик »Гоце Делчев« во Градскиот парк
+
+![Алеја на хероите, Градски гробишта](fotografii/Aleja-na-heroite-Gradski-grobista.jpg)
+Алеја на хероите, Градски гробишта
+
+![»Споменик на жртвите од земјотресот« - Градски гробишта](fotografii/Spomenik-na-zrtvite-od-zemjotresot-Gradski-grobista.jpg)
+»Споменик на жртвите од земјотресот« - Градски гробишта
+
+![Гробишта на француските војници загинати во I светска војна](fotografii/Grobista-na-francuskite-vojnici-zaginati-vo-I-svetska-vojna.jpg)
+Гробишта на француските војници загинати во I светска војна
+
+![Зоолошка градина - Градски парк](fotografii/Zooloska-gradina-gradski-park.jpg)
+Зоолошка градина - Градски парк
+
+![Скопски саем](fotografii/Skopski-saem.jpg)
+Скопски саем
+
+![Олимписки базен](fotografii/Olimpiski-bazen.jpg)
+Олимписки базен
+
+![Аеродром »Скопје«, с. Петровец](fotografii/Aerodrom-Skopje-s-Petrovec.jpg)
+Аеродром »Скопје«, с. Петровец
+
+![Хотел »Континентал«](fotografii/Hotel-Kontinental.jpg)
+Хотел »Континентал«
+
+![Специјалитети од националното кулинарство](fotografii/Specijaliteti-od-nacionalnoto-kulinarstvo.jpg)
+Специјалитети од националното кулинарство
+
+![Хотел »Континентал« - бар](fotografii/Hotel-Kontinental-bar.jpg)
+Хотел »Континентал« - бар
+
+![Гранд-хотел »Скопје« - ресторан »Огниште«](fotografii/Grand-hotel-Skopje-restoran-Ogniste.jpg)
+Гранд-хотел »Скопје« - ресторан »Огниште«
+
+![Гранд-хотел »Скопје«](fotografii/Grand-hotel-Skopje.jpg)
+Гранд-хотел »Скопје«
+
+![Хотел »Панорама«](fotografii/Hotel-Panorama.jpg)
+Хотел »Панорама«
+
+![Ресторан во манастирот Св. Пантелејмон - Нерези](fotografii/Restoran-vo-manastirot-Sv-Pantelejmon-Nerezi.jpg)
+Ресторан во манастирот Св. Пантелејмон - Нерези
+
+![Железничка станица](fotografii/Zeleznicka-stanica.jpg)
+Железничка станица
+
+![Градски стадион](fotografii/Gradski-stadion.jpg)
+Градски стадион
+
+![Соборна црква »Св. Климент Охридски«](fotografii/Soborna-crkva-Sv-Kliment-Ohridski.jpg)
+Соборна црква »Св. Климент Охридски«
+
+![Скопје](fotografii/Skopje-2.jpg)
+Скопје
+
+![Катлановска Бања](fotografii/Katlanovska-Banja.jpg)
+Катлановска Бања
+
+![Кајак на диви води на р. Треска](fotografii/Kajak-na-divi-vodi-r-Treska.jpg)
+Кајак на диви води на р. Треска
+
+![Рекреативен центар »Треска«](fotografii/Rekreativen-centar-Treska.jpg)
+Рекреативен центар »Треска«
+
+![Зимски рекреативен центар »Попова Шапка«](fotografii/Zimski-rekreativen-centar-Popova-Sapka.jpg)
+Зимски рекреативен центар »Попова Шапка«
+
+![Зимски рекреативен центар »Попова Шапка«](fotografii/Zimski-rekreativen-centar-Popova-Sapka-2.jpg)
+Зимски рекреативен центар »Попова Шапка«
+
+![Зимски рекреативен центар Маврово](fotografii/Zimski-rekreativen-centar-Mavrovo.jpg)
+Зимски рекреативен центар Маврово
+
+![Манастир Св. Јован Бигорски (XVIII - XIX в.)](fotografii/Manastir-Sv-Jovan-Bigorski-XVIII-XIX-vek.jpg)
+Манастир Св. Јован Бигорски (XVIII - XIX в.)
+
+![Река Радика](fotografii/Reka-Radika.jpg)
+Река Радика
+
+![Охрид - Св. Јован Канео (XIII в.)](fotografii/Ohrid-Sv-Jovan-Kaneo-XIII-vek.jpg)
+Охрид - Св. Јован Канео (XIII в.)
+
+![Струга - Меѓународни Струшки вечери на поезијата](fotografii/Struga-Megunarodni-Struski-veceri-na-poezijata.jpg)
+Струга - Меѓународни Струшки вечери на поезијата
+
+![Охрид - панорама](fotografii/Ohrid-panorama.jpg)
+Охрид - панорама
+
+![Охрид - црква Св. Климент (XIII в.)](fotografii/Ohrid-crkva-Sv-Kliment-XIII-vek.jpg)
+Охрид - црква Св. Климент (XIII в.)
+
+![Литиска икона »Богородица Душеспасителка« (XIV в.), Галерија на икони во Охрид](fotografii/Litiska-ikona-Bogorodica-Dusespasitelka-XIV-vek-Galerija-na-ikoni-vo-Ohrid.jpg)
+Литиска икона »Богородица Душеспасителка« (XIV в.), Галерија на икони во Охрид
+
+![Охрид - црква Св. Софија (XI в.), »Ангел од фризот«, фреска](fotografii/Ohrid-crkva-Sv-Sofija-XI-vek-Angel-od-frizot-freska.jpg)
+Охрид - црква Св. Софија (XI в.), »Ангел од фризот«, фреска
+
+![Охрид - црква Св. Софија (XI в.)](fotografii/Ohrid-crkva-Sv-Sofija-XI-vek.jpg)
+Охрид - црква Св. Софија (XI в.)
+
+![Охрид - манастир Св. Наум (XVII в.)](fotografii/Ohrid-manastir-Sv-Naum-XVII-vek.jpg)
+Охрид - манастир Св. Наум (XVII в.)
+
+![Охридско Езеро](fotografii/Ohridsko-Ezero.jpg)
+Охридско Езеро
+
+![Преспанско Езеро - Отешево](fotografii/Prespansko-Ezero-Otesevo.jpg)
+Преспанско Езеро - Отешево
+
+![Стоби - антички град](fotografii/Stobi-anticki-grad.jpg)
+Стоби - антички град
+
+![Хераклеја, антички град - Битола](fotografii/Herakleja-anticki-grad-Bitola.jpg)
+Хераклеја, антички град - Битола
+
+![Крушево - споменик »Илинден«, Ј. Грабуловски](fotografii/Krusevo-spomenik-Ilinden-Jordan-Grabulovski.jpg)
+Крушево - споменик »Илинден«, Ј. Грабуловски
+
+![Дојранско Езеро](fotografii/Dojransko-Ezero.jpg)
+Дојранско Езеро
 
 Во внатрешноста на Скупи се откопани неколку јавни градби: — дел од приватна богата зграда, едната со хипокаустен систем за загревање, а другата поседува убави мозаични подови — делумно се откриени и остатоци од поплочени улици со канали за отпадни води.
 
